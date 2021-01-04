@@ -10,5 +10,7 @@ One day, I'm going to be the [Avatar](https://avatar.fandom.com/wiki/Avatar) of 
 - 📫 How to reach me: 
   - 📧 Email: geonhyeong.lim@icloud.com
   - 🚖 KakaoTalk: https://open.kakao.com/o/sHbjYnKc
+  
+Feel free to contact me. I'm happy to help you.
 
 [![Gon's github stats](https://github-readme-stats.vercel.app/api?username=gon125)](https://github.com/anuraghazra/github-readme-stats)
