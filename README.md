@@ -13,4 +13,6 @@ One day, I'm going to be the [Avatar](https://avatar.fandom.com/wiki/Avatar) of 
   
 Feel free to contact me. I'm happy to help you.
 
-[![Gon's github stats](https://github-readme-stats.vercel.app/api?username=gon125)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gon125&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gon125&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
