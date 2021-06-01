@@ -8,7 +8,7 @@ One day, I'm going to be the [Avatar](https://avatar.fandom.com/wiki/Avatar) of 
 -->
 
 - 📫 How to reach me: 
-  - 📧 Email: geonhyeong.lim@icloud.com
+  - 📧 Email: dev.gon.lim@gmail.com
   - 🚖 KakaoTalk: https://open.kakao.com/o/sHbjYnKc
   
 Feel free to contact me. I'm happy to help you.
